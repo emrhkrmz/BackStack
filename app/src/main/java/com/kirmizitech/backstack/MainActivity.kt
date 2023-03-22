@@ -21,4 +21,10 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
+
+    //onBack
+    override fun onBackPressed() {
+        //super.onBackPressed()
+    }
+
 }
